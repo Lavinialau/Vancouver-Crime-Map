@@ -19,7 +19,7 @@ working <- read_csv("crime_csv_all_years.csv")
 
 
 #Test condition for updating dataset
-#PS: If day differece < 11, no need to download new dataset
+#PS: If day differece < 8, no need to download new dataset
 
 if(Sys.Date() - max(working$DATE) > 8) {
   
