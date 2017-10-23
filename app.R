@@ -116,7 +116,7 @@ CrimeHour <- working %>% group_by(YEAR, MONTH, HOUR, TYPE) %>% summarise(
 
 #############################################################################
 
-# Define UI for application that draws a histogram
+# Define UI for application
 ui <- fluidPage(tabsetPanel(
   
   tabPanel("Interactive Crime Map",
