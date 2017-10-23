@@ -1,4 +1,5 @@
-#Crime Statistics Vancouver (Not downloading dataset)
+#Crime Statistics Vancouver
+#PS: Dataset downloaded automatically once a week
 
 #############################################################################
 #library
