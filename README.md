@@ -38,13 +38,13 @@ From 2003 to 2017, the number of daily crime has decreased by around 30% (see Fi
 
 Let’s further probe into crime type across years, months, and hours. Despite decreasing daily crime, some crime types are getting worse in recent years. In 2016, there are more theft happening, including Theft from Vehicle, Theft of Bicycle, Theft of Vehicle and Other Theft (Figure 5) comparing to 2015. As for monthly trend, there is not obvious trend except more bicycles are stolen in summer time (Figure 6). A higher crime rate is also expected from afternoon to evening, and some crime has its unique hourly pattern (Figure 7).
 
-<I>Figure 5:Crime type trend across year (2003-2014)</I>
+<I>Figure 5: Crime type trend across year (2003-2014)</I>
 ![yearly crime trend](https://github.com/Lavinialau/Vancouver-Crime-Map/blob/master/graphics/Figure%205%20Crime%20Type%20Trend%20Across%20Year.jpeg)
 
-<I>Figure 6:Crime type trend across month (2015-2016)</I>
+<I>Figure 6: Crime type trend across month (2015-2016)</I>
 ![monthly crime trend](https://github.com/Lavinialau/Vancouver-Crime-Map/blob/master/graphics/Figure%206%20Crime%20Type%20Trend%20Across%20Month.jpeg)
 
-<I>Figure 7:Crime type across hour (2017)</I>
+<I>Figure 7: Crime type across hour (2017)</I>
 ![hourly crime trend](https://github.com/Lavinialau/Vancouver-Crime-Map/blob/master/graphics/Figure%207%20Crime%20Type%20Across%20Hour.jpeg)
 
 
