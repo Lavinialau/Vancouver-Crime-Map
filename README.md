@@ -10,7 +10,7 @@ In this project, an interactive crime map was developed to study crime activitie
 Link: https://lavinialau.shinyapps.io/crimestatistics/
 
 
-# How to read the map?
+## How to read the map?
 
 The interactive crime map was developed for the public to observe the crime trend in different time. Users can zoom in the map or mouse over the map to see the crime details.
 
@@ -50,6 +50,7 @@ Let’s further probe into crime type across years, months, and hours. Despite d
 
 I hope this interactive crime map will serve as an useful tool for public to visualize the crime activities data for better understanding of their neigbourhood.
 
-
+## License
+Developed by Lavinia Lau @2017
 
 
