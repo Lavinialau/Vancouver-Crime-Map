@@ -1,4 +1,4 @@
-# Interactive Crime Map in Vancouver
+# Interactive Crime Map for Vancouver
 
 By studying historic crime data, we can analyze the crime trend to identify people and locations at increased risk of crime, and allocate police to patrol at appropriate locations prior to crime happening.
 
